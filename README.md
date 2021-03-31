@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm KiLien ![Profile views](https://gpvc.arturio.dev/KiLien) ![Twitter Follow](https://img.shields.io/twitter/follow/Linerzore?style=social)
 
-<img align="left" alt="" src="https://metrics.lecoq.io/KiLien" />
+<img align="center" alt="" src="https://metrics.lecoq.io/KiLien" />
 
 ---
 
