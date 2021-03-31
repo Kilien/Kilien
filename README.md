@@ -1,4 +1,5 @@
-## Hi there 👋, I'm KiLien ![Profile views](https://gpvc.arturio.dev/KiLien) ![Twitter Follow](https://img.shields.io/twitter/follow/Linerzore?style=social)
+## Hi there ~ <img src="https://github.com/KiLien/Pics/blob/main/Hi.gif" width="24px" alt="hi">, I'm KiLien ![Profile views](https://gpvc.arturio.dev/KiLien) ![Twitter Follow](https://img.shields.io/twitter/follow/Linerzore?style=social)
+
 
 <img align="center" alt="" src="https://metrics.lecoq.io/KiLien" />
 
