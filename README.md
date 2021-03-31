@@ -1,9 +1,16 @@
-### Hi there 👋, my name is KiLien ! [Profile views](https://gpvc.arturio.dev/KiLien) ![Twitter Follow](https://img.shields.io/twitter/follow/Linerzore?style=social)
+## Hi there 👋, I'm KiLien ![Profile views](https://gpvc.arturio.dev/KiLien) ![Twitter Follow](https://img.shields.io/twitter/follow/Linerzore?style=social)
+<img align="right" height="250" width="375" alt="" src="https://w.wallhaven.cc/full/1k/wallhaven-1kpkxv.jpg" />
 ![GitHub metrics](https://metrics.lecoq.io/KiLien)  
+
+---
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://KiLien.github.io)
+
+---
 
 <details>	
   <br />
