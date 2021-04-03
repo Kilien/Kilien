@@ -1,6 +1,16 @@
-## Hi there ~ <img src="https://github.com/KiLien/Pics/blob/main/Hi.gif" width="24px" alt="hi">, I'm KiLien ![Profile views](https://gpvc.arturio.dev/KiLien) ![Twitter Follow](https://img.shields.io/twitter/follow/Linerzore?style=social)
+## Hi there ~ <img src="https://github.com/KiLien/Pics/blob/main/Hi.gif" width="24px" alt="hi">
+### I'm KiLien ![Profile views](https://gpvc.arturio.dev/KiLien) ![Twitter Follow](https://img.shields.io/twitter/follow/Linerzore?style=social)
+
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/KiLien/Pics@master/img/Developer activity.gif" width="360px"/>
+  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
+- 🔭 &nbsp; I’m currently working on **Software Programmer**
+- 🌱 &nbsp; I’m currently learning Golang; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/developer-activity/bro/animate) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 
 ---
 
@@ -17,16 +27,17 @@
 
 ---
 
-<details>	
+<details>    
   <br />
   <summary><b>🌟 Github Profile</b></summary>
-  <img height="180em" src="https://metrics.lecoq.io/KiLien" />
+  <img height="320em" width="450em" src="https://metrics.lecoq.io/KiLien" />
 </details>
 <details>	
   <br />
   <summary><b>✨ Github Stats</b></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KiLien&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=KiLien&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiLien&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
 </details>
 <details>	
   <br />
