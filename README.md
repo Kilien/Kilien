@@ -7,9 +7,9 @@
 
 
 - 🔭 &nbsp; I’m currently working on **Software Programmer**
-- 🌱 &nbsp; I’m currently learning Golang; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/developer-activity/bro/animate) and Figma I made 👉
+- 🌱 &nbsp; I’m currently learning **Golang**; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/KiLien).
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/developer-activity/bro) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 
 ---
