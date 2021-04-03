@@ -2,7 +2,6 @@
 
 <img align="center" alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal" width='100%'/>
 ![Profile views](https://gpvc.arturio.dev/KiLien) ![Twitter Follow](https://img.shields.io/twitter/follow/Linerzore?style=social)
-
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/KiLien/Pics@master/img/Developer activity.gif" width="360px"/>
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -28,6 +27,7 @@
 ➡️ [more blog posts...](https://KiLien.github.io)
 
 ---
+
 
 <details>    
   <br />
