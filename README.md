@@ -21,8 +21,8 @@
 - [GitHub-profile-README：打造自己的个人主页](http://KiLien.github.io/github-profile-readme/)
 - [PicGo+GitHub：打造自己的图床](http://KiLien.github.io/github%E5%9B%BE%E5%BA%8A/)
 - [LeetCode-160-相交链表](http://KiLien.github.io/LeetCode-160%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8/)
+- [Python技巧2](http://KiLien.github.io/PythonTrick2/)
 - [LeetCode-821-字符的最短距离](http://KiLien.github.io/LeetCode-821-%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E7%9F%AD%E8%B7%9D%E7%A6%BB/)
-- [LeetCode-66-加一](http://KiLien.github.io/LeetCode-66-%E5%8A%A0%E4%B8%80/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://KiLien.github.io)
