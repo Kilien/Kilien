@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [使用 Python + Selenium 模拟浏览器行为爬取数据](https://kilien.github.io/p/3463483397d54c8486e83cefd36cfa0e/)
 - [尝试md中使用Vue语法](https://kilien.github.io/p/08888ee3571943e8a6ed4c0fde336925/)
 - [VsCode 个人配置及插件分享](https://kilien.github.io/p/ddbaae777de7406c98b4827a3e4d1880/)
 - [ECMAScript 攻略](https://kilien.github.io/p/3a9cea8df5b14702b262fd7ce3b36311/)
 - [从零开始的合约交互小知识&lpar;2&rpar;](https://kilien.github.io/p/f8ae6f63d6bd4c55bdd6989335ad2375/)
-- [从零开始的合约交互小知识&lpar;1&rpar;](https://kilien.github.io/p/65f1273e08074de9b1083d57cc16977c/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://KiLien.github.io)
