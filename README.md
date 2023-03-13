@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SpaceID&amp;Dotbit](https://kilien.github.io/p/2831a9a6cf814bee8fd043f3488e0d2f/)
 - [Joplin &amp; Blog 实践](https://kilien.github.io/p/e077e58b38ab457faf0c53059ff2e63a/)
 - [Windows Terminal 美化：Oh My Posh](https://kilien.github.io/p/a22b65c4a625472abbb1660131d6f0f9/)
 - [CSS 常见伪类解析](https://kilien.github.io/p/97b3f9df0e4646da98b9b5a2a070aae4/)
 - [区块链合约小技巧](https://kilien.github.io/p/d45a6aa987204ad9a933e10250e33222/)
-- [使用 Python + Selenium 模拟浏览器行为爬取数据](https://kilien.github.io/p/3463483397d54c8486e83cefd36cfa0e/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://KiLien.github.io)
