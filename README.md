@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [探索 dNFT 实现方式](https://kilien.github.io/p/9437a159852841d58530eb69e14619fa/)
+- [Beez Trip 调研](https://kilien.github.io/p/5c23303c112445858f6ae5223d5946bf/)
+- [重启状态](https://kilien.github.io/p/47bbe0f9791548d9a7e10a8ec41aaf1d/)
 - [从零开始搭建WordPress](https://kilien.github.io/p/7820f28e7dfc440a9f4fc7f234c18cd6/)
 - [如何科学定价？](https://kilien.github.io/p/e1e9a49cef81426b93cd94ed2e629e73/)
-- [上瘾-解构产品营销逻辑](https://kilien.github.io/p/9aad868cda6a4d808e958e00a9730d7b/)
-- [Yarn building fresh packages... 解决方案](https://kilien.github.io/p/3d9dab9442d64353851695691b0c1c71/)
-- [Google &amp; DeepL API](https://kilien.github.io/p/aa267042e0f642ca953d2456e00e3bfa/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://KiLien.github.io)
