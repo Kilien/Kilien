@@ -19,12 +19,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [从零开始搭建 WordPress](https://evanyuki.github.io/p/7820f28e7dfc440a9f4fc7f234c18cd6/)
-- [如何科学定价？](https://evanyuki.github.io/p/e1e9a49cef81426b93cd94ed2e629e73/)
-- [上瘾-解构产品营销逻辑](https://evanyuki.github.io/p/9aad868cda6a4d808e958e00a9730d7b/)
-- [Yarn building fresh packages... 解决方案](https://evanyuki.github.io/p/3d9dab9442d64353851695691b0c1c71/)
-- [Google &amp; DeepL API](https://evanyuki.github.io/p/aa267042e0f642ca953d2456e00e3bfa/)
+- [迁移日记](https://evanyuki.github.io/posts/d54a2d69464a4bb1b4f6b3890fd37ba3/)
+- [啊...](https://evanyuki.github.io/posts/8da723e6bee14577a0cf78dabadb8ac8/)
+- [从零开始搭建WordPress](https://evanyuki.github.io/posts/7820f28e7dfc440a9f4fc7f234c18cd6/)
+- [上瘾-解构产品营销逻辑](https://evanyuki.github.io/posts/9aad868cda6a4d808e958e00a9730d7b/)
+- [如何科学定价？](https://evanyuki.github.io/posts/e1e9a49cef81426b93cd94ed2e629e73/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://evanyuki.github.io)
