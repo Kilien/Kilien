@@ -19,11 +19,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [快捷瞬间操作指北](https://evanyuki.github.io/posts/d835010258684572b74515556b80cf82/)
 - [迁移日记](https://evanyuki.github.io/posts/d54a2d69464a4bb1b4f6b3890fd37ba3/)
 - [啊...](https://evanyuki.github.io/posts/8da723e6bee14577a0cf78dabadb8ac8/)
 - [从零开始搭建WordPress](https://evanyuki.github.io/posts/7820f28e7dfc440a9f4fc7f234c18cd6/)
 - [上瘾-解构产品营销逻辑](https://evanyuki.github.io/posts/9aad868cda6a4d808e958e00a9730d7b/)
-- [如何科学定价？](https://evanyuki.github.io/posts/e1e9a49cef81426b93cd94ed2e629e73/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://evanyuki.github.io)
